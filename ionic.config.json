@@ -2,5 +2,7 @@
   "name": "tequila-app",
   "app_id": "eb7042d3",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
